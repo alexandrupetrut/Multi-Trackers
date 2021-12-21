@@ -11,10 +11,10 @@
 </template>
 
 <script>
-import Button from "./Button";
+import Button from './Button'
 
 export default {
-  name: "Header",
+  name: 'Header',
   props: {
     title: String,
     showAddTask: Boolean,
@@ -24,14 +24,14 @@ export default {
   },
   computed: {
     homePage() {
-      if (this.$route.path === "/") {
-        return true;
+      if (this.$route.path === '/') {
+        return true
       } else {
-        return false;
+        return false
       }
     },
   },
-};
+}
 </script>
 
 <style scoped>
