@@ -5,7 +5,8 @@
   </a>
 </p>
 
-> Simple and standard Task Trackers built using Angular, Vue and React in order to properly compare the three frameworks/libraries.
+> Simple and standard Task Trackers built using Angular, Vue and React in order to properly compare the three frameworks/libraries
+> The apps allow for simple addition of tasks, removal of tasks, setting reminders, usage of components / two-way binding / routing (etc.)
 
 ## Install
 
@@ -15,7 +16,7 @@ npm install & run (see package.json for the viable scripts for each individual p
 
 ## Author
 
-👤 **Alex P**
+👤 nbsp; **Alex P**
 
 * Github: [@alexandrupetrut](https://github.com/alexandrupetrut)
 * LinkedIn: [@petrut-alex](https://linkedin.com/in/petrut-alex)
