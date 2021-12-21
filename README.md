@@ -16,7 +16,7 @@ npm install & run (see package.json for the viable scripts for each individual p
 
 ## Author
 
-👤 &nbsp;; **Alex P**
+👤 &nbsp; **Alex P**
 
 * Github: [@alexandrupetrut](https://github.com/alexandrupetrut)
 * LinkedIn: [@petrut-alex](https://linkedin.com/in/petrut-alex)
