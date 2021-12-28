@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Multitasking Trackers in Angular, Vue, React 👋</h1>
+<h1 style="align="center">Welcome to Multitasking Trackers in Angular, Vue, React 👋</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -16,25 +16,25 @@
 npm install
 ```
 
-### Run Angular server (http://localhost:4200)
+### Run Angular server:
 
 ```sh
 ng serve
 ```
 
-### Run React server (http://localhost:4200)
+### Run React server:
 
 ```sh
 npm run serve
 ```
 
-### Run Vue server (http://localhost:4200)
+### Run Vue server:
 
 ```sh
 npm run serve
 ```
 
-### Run the JSON server (http://localhost:5000)
+### Run the JSON server (http://localhost:3333)
 
 ```sh
 npm run server
