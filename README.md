@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Standard Task Trackers built using Angular, Vue, React, React Native, Flutter (Dart), Kotlin and Swift in order to properly compare the three frameworks.
+> Standard Task Trackers built using Angular, Vue, React, React Native, Flutter (Dart), Kotlin and Swift in order to properly compare all these frameworks / libraries.
 > The apps allow for simple task addition / removal, toggling reminders and showcase the usage of components / two-way binding / routing.
 
 ## Usage
