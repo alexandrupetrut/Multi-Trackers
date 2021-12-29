@@ -1,11 +1,11 @@
-<h1 style="align="center">Welcome to Multitasking Trackers in Angular, Vue, React 👋</h1>
+<h1 style="align="center">Welcome to Multitasking Trackers 👋</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
 
-> Standard Task Trackers built using Angular, Vue and React in order to properly compare the three frameworks.
+> Standard Task Trackers built using Angular, Vue, React, React Native, Flutter (Dart), Kotlin and Swift in order to properly compare the three frameworks.
 > The apps allow for simple task addition / removal, toggling reminders and showcase the usage of components / two-way binding / routing.
 
 ## Usage
@@ -17,19 +17,14 @@ npm install
 ```
 
 ### Run Angular server:
-
 ```sh
 ng serve
 ```
-
 ### Run React server:
-
 ```sh
-npm run serve
+npm start
 ```
-
 ### Run Vue server:
-
 ```sh
 npm run serve
 ```
@@ -39,6 +34,31 @@ npm run serve
 ```sh
 npm run server
 ```
+
+### Run React Native server:
+
+```sh
+npm run serve
+```
+
+### Run Flutter server:
+
+```sh
+npm run serve
+```
+
+### Run Kotlin server:
+
+```sh
+npm run serve
+```
+
+### Run Swift server:
+
+```sh
+npm run serve
+```
+
 
 ## Author
 
